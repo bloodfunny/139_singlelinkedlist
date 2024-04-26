@@ -184,6 +184,9 @@ int main() {
 			default:
 				cout << "Pilihan tidak ada" << endl;
 				break;
+			}
 		}
+		catch (exception e)
+
 	}
 }
